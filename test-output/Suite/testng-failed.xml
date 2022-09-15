@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utility.ListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.SignInTest">
+        <methods>
+          <include name="signInWithvalidUnameInvalidPwd" invocation-numbers="0"/>
+          <include name="afterSuite"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="loadConfig"/>
+          <include name="signInWithInvalidUnamevalidPwd" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testCases.SignInTest -->
+      <class name="testCases.RegistrationTest">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="pwdsOnlyNumErrrMasg" invocation-numbers="0"/>
+          <include name="userNamewithNACharcters" invocation-numbers="0"/>
+          <include name="loadConfig"/>
+          <include name="pwdsLT8CharErrrMasg" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.RegistrationTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

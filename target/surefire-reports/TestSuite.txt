@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 51, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 237.825 s <<< FAILURE! - in TestSuite
+testCases.SignInTest.signInWithInvalidUnamevalidPwd  Time elapsed: 3.364 s  <<< FAILURE!
+java.lang.AssertionError: expected [Please check your user id] but found [Invalid Username and Password]
+	at testCases.SignInTest.signInWithInvalidUnamevalidPwd(SignInTest.java:100)
+
+testCases.SignInTest.signInWithvalidUnameInvalidPwd  Time elapsed: 3.3 s  <<< FAILURE!
+java.lang.AssertionError: expected [Please check your password] but found [Invalid Username and Password]
+	at testCases.SignInTest.signInWithvalidUnameInvalidPwd(SignInTest.java:77)
+
+testCases.RegistrationTest.pwdsLT8CharErrrMasg  Time elapsed: 2.164 s  <<< FAILURE!
+java.lang.AssertionError: expected [Password should contain atleast 8 characters] but found [password_mismatch:The two password fields didn’t match.]
+	at testCases.RegistrationTest.pwdsLT8CharErrrMasg(RegistrationTest.java:264)
+
+testCases.RegistrationTest.pwdsOnlyNumErrrMasg  Time elapsed: 2.302 s  <<< FAILURE!
+java.lang.AssertionError: expected [Your password can’t be entirely numeric.] but found [password_mismatch:The two password fields didn’t match.]
+	at testCases.RegistrationTest.pwdsOnlyNumErrrMasg(RegistrationTest.java:177)
+
+testCases.RegistrationTest.userNamewithNACharcters  Time elapsed: 2.123 s  <<< FAILURE!
+java.lang.AssertionError: expected [Please enter a valid username] but found [password_mismatch:The two password fields didn’t match.]
+	at testCases.RegistrationTest.userNamewithNACharcters(RegistrationTest.java:206)
+

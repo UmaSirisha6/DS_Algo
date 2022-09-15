@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="69" passed="46" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-27T16:15:17 EDT" name="Suite" finished-at="2022-06-27T16:19:45 EDT" duration-ms="268097">
+    <groups>
+    </groups>
+    <test started-at="2022-06-27T16:15:17 EDT" name="Test" finished-at="2022-06-27T16:19:45 EDT" duration-ms="268097">
+      <class name="testCases.TreeTest">
+        <test-method is-config="true" signature="openinglink()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:02 EDT" name="openinglink" finished-at="2022-06-27T16:17:08 EDT" duration-ms="6189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openinglink -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:08 EDT" name="setup" finished-at="2022-06-27T16:17:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="binaryTreesPage()[pri:6, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:08 EDT" name="binaryTreesPage" finished-at="2022-06-27T16:17:11 EDT" duration-ms="2242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- binaryTreesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:11 EDT" name="tearDown" finished-at="2022-06-27T16:17:11 EDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:11 EDT" name="setup" finished-at="2022-06-27T16:17:11 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ovrvwOfTreesPage()[pri:1, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:11 EDT" name="ovrvwOfTreesPage" finished-at="2022-06-27T16:17:12 EDT" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ovrvwOfTreesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:12 EDT" name="tearDown" finished-at="2022-06-27T16:17:12 EDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:12 EDT" name="setup" finished-at="2022-06-27T16:17:12 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pracQuestionsPage()[pri:7, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:12 EDT" name="pracQuestionsPage" finished-at="2022-06-27T16:17:12 EDT" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pracQuestionsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:12 EDT" name="tearDown" finished-at="2022-06-27T16:17:13 EDT" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:13 EDT" name="setup" finished-at="2022-06-27T16:17:13 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="terminologiesPage(java.lang.String,java.lang.String)[pri:2, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:13 EDT" name="terminologiesPage" data-provider="PyCode" finished-at="2022-06-27T16:17:15 EDT" duration-ms="2158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "python"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminologiesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:15 EDT" name="tearDown" finished-at="2022-06-27T16:17:15 EDT" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:15 EDT" name="setup" finished-at="2022-06-27T16:17:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="terminologiesPage(java.lang.String,java.lang.String)[pri:2, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:15 EDT" name="terminologiesPage" data-provider="PyCode" finished-at="2022-06-27T16:17:17 EDT" duration-ms="1815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "hello"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminologiesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:17 EDT" name="tearDown" finished-at="2022-06-27T16:17:17 EDT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:17 EDT" name="setup" finished-at="2022-06-27T16:17:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="travIllustartionPage()[pri:5, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:17 EDT" name="travIllustartionPage" finished-at="2022-06-27T16:17:18 EDT" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travIllustartionPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:18 EDT" name="tearDown" finished-at="2022-06-27T16:17:18 EDT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:18 EDT" name="setup" finished-at="2022-06-27T16:17:18 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="treeTraversalsPage()[pri:4, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:18 EDT" name="treeTraversalsPage" finished-at="2022-06-27T16:17:19 EDT" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- treeTraversalsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:19 EDT" name="tearDown" finished-at="2022-06-27T16:17:19 EDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:19 EDT" name="setup" finished-at="2022-06-27T16:17:19 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="typesOfTreesPage()[pri:3, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:19 EDT" name="typesOfTreesPage" finished-at="2022-06-27T16:17:20 EDT" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesOfTreesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:20 EDT" name="tearDown" finished-at="2022-06-27T16:17:20 EDT" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testCases.TreeTest@64b7225f]" started-at="2022-06-27T16:17:20 EDT" name="closing" finished-at="2022-06-27T16:17:20 EDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testCases.TreeTest -->
+      <class name="testCases.QueuePageTest">
+        <test-method is-config="true" signature="openinglink()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:32 EDT" name="openinglink" finished-at="2022-06-27T16:18:32 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openinglink -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:32 EDT" name="setup" finished-at="2022-06-27T16:18:36 EDT" duration-ms="4207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImplementationOfQueueinPython(java.lang.String,java.lang.String)[pri:2, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:36 EDT" name="ImplementationOfQueueinPython" data-provider="PyCode" finished-at="2022-06-27T16:18:39 EDT" duration-ms="3195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "python"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationOfQueueinPython -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:39 EDT" name="tearDown" finished-at="2022-06-27T16:18:40 EDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:40 EDT" name="setup" finished-at="2022-06-27T16:18:44 EDT" duration-ms="3993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImplementationOfQueueinPython(java.lang.String,java.lang.String)[pri:2, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:44 EDT" name="ImplementationOfQueueinPython" data-provider="PyCode" finished-at="2022-06-27T16:18:48 EDT" duration-ms="4550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "hello"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationOfQueueinPython -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:48 EDT" name="tearDown" finished-at="2022-06-27T16:18:48 EDT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:48 EDT" name="setup" finished-at="2022-06-27T16:18:52 EDT" duration-ms="3847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImplementationUsingArray()[pri:4, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:52 EDT" name="ImplementationUsingArray" finished-at="2022-06-27T16:18:55 EDT" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationUsingArray -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:55 EDT" name="tearDown" finished-at="2022-06-27T16:18:55 EDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:55 EDT" name="setup" finished-at="2022-06-27T16:18:59 EDT" duration-ms="3661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ImplementationUsingCollectionsDeque()[pri:3, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:18:59 EDT" name="ImplementationUsingCollectionsDeque" finished-at="2022-06-27T16:19:01 EDT" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImplementationUsingCollectionsDeque -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:01 EDT" name="tearDown" finished-at="2022-06-27T16:19:01 EDT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:01 EDT" name="setup" finished-at="2022-06-27T16:19:05 EDT" duration-ms="3826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="QueueOperation()[pri:5, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:05 EDT" name="QueueOperation" finished-at="2022-06-27T16:19:08 EDT" duration-ms="2765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueOperation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:08 EDT" name="tearDown" finished-at="2022-06-27T16:19:08 EDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:08 EDT" name="setup" finished-at="2022-06-27T16:19:11 EDT" duration-ms="3608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="QueuePageURL()[pri:1, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:11 EDT" name="QueuePageURL" finished-at="2022-06-27T16:19:11 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueuePageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:11 EDT" name="tearDown" finished-at="2022-06-27T16:19:12 EDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testCases.QueuePageTest@4beeb0e]" started-at="2022-06-27T16:19:12 EDT" name="closing" finished-at="2022-06-27T16:19:12 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testCases.QueuePageTest -->
+      <class name="testCases.SignInTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:20 EDT" name="setup" finished-at="2022-06-27T16:15:22 EDT" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInWithInvalidUnameInvalidPwd()[pri:4, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:22 EDT" name="signInWithInvalidUnameInvalidPwd" finished-at="2022-06-27T16:15:25 EDT" duration-ms="3270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidUnameInvalidPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:25 EDT" name="tearDown" finished-at="2022-06-27T16:15:25 EDT" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:26 EDT" name="setup" finished-at="2022-06-27T16:15:27 EDT" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInWithInvalidUnamevalidPwd(java.lang.String,java.lang.String)[pri:3, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:27 EDT" name="signInWithInvalidUnamevalidPwd" data-provider="SignIn" finished-at="2022-06-27T16:15:31 EDT" duration-ms="3371" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo_Proj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[group@pssu]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please check your user id] but found [Invalid Username and Password]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please check your user id] but found [Invalid Username and Password]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testCases.SignInTest.signInWithInvalidUnamevalidPwd(SignInTest.java:100)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidUnamevalidPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:31 EDT" name="tearDown" finished-at="2022-06-27T16:15:31 EDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:31 EDT" name="setup" finished-at="2022-06-27T16:15:33 EDT" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInWithvalidUnameAndPwd(java.lang.String,java.lang.String)[pri:1, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:33 EDT" name="signInWithvalidUnameAndPwd" data-provider="SignIn" finished-at="2022-06-27T16:15:37 EDT" duration-ms="3964" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo_Proj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[group@pssu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithvalidUnameAndPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:37 EDT" name="tearDown" finished-at="2022-06-27T16:15:37 EDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:37 EDT" name="setup" finished-at="2022-06-27T16:15:38 EDT" duration-ms="1591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInWithvalidUnameInvalidPwd(java.lang.String,java.lang.String)[pri:2, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:38 EDT" name="signInWithvalidUnameInvalidPwd" data-provider="SignIn" finished-at="2022-06-27T16:15:42 EDT" duration-ms="3196" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo_Proj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[group@pssu]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please check your password] but found [Invalid Username and Password]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please check your password] but found [Invalid Username and Password]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testCases.SignInTest.signInWithvalidUnameInvalidPwd(SignInTest.java:77)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithvalidUnameInvalidPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:42 EDT" name="tearDown" finished-at="2022-06-27T16:15:42 EDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:42 EDT" name="setup" finished-at="2022-06-27T16:15:43 EDT" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInWithvalidUnameNoPwd(java.lang.String,java.lang.String)[pri:5, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:43 EDT" name="signInWithvalidUnameNoPwd" data-provider="SignIn" finished-at="2022-06-27T16:15:46 EDT" duration-ms="2679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo_Proj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[group@pssu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithvalidUnameNoPwd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:46 EDT" name="tearDown" finished-at="2022-06-27T16:15:46 EDT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:46 EDT" name="setup" finished-at="2022-06-27T16:15:47 EDT" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signOut(java.lang.String,java.lang.String)[pri:6, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:47 EDT" name="signOut" data-provider="SignIn" finished-at="2022-06-27T16:15:51 EDT" duration-ms="3748" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo_Proj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[group@pssu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SignInTest@72ee5d84]" started-at="2022-06-27T16:15:51 EDT" name="tearDown" finished-at="2022-06-27T16:15:51 EDT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SignInTest -->
+      <class name="testCases.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:12 EDT" name="setup" finished-at="2022-06-27T16:19:13 EDT" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegistreTest(java.lang.String,java.lang.String,java.lang.String)[pri:35, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:13 EDT" name="RegistreTest" data-provider="ValidUNamePWDForAccCreation" finished-at="2022-06-27T16:19:16 EDT" duration-ms="3450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uma15@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[number33]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[number33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistreTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:16 EDT" name="tearDown" finished-at="2022-06-27T16:19:17 EDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:17 EDT" name="setup" finished-at="2022-06-27T16:19:18 EDT" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegistreTest(java.lang.String,java.lang.String,java.lang.String)[pri:35, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:18 EDT" name="RegistreTest" data-provider="ValidUNamePWDForAccCreation" finished-at="2022-06-27T16:19:21 EDT" duration-ms="3363" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uma16@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[number33]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[number33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistreTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:21 EDT" name="tearDown" finished-at="2022-06-27T16:19:21 EDT" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:21 EDT" name="setup" finished-at="2022-06-27T16:19:22 EDT" duration-ms="1097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="afterClickingSubmitwithAllEmptyfields()[pri:5, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:22 EDT" name="afterClickingSubmitwithAllEmptyfields" finished-at="2022-06-27T16:19:24 EDT" duration-ms="1793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClickingSubmitwithAllEmptyfields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:24 EDT" name="tearDown" finished-at="2022-06-27T16:19:24 EDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:24 EDT" name="setup" finished-at="2022-06-27T16:19:25 EDT" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="afterClickingSubmitwithoutPwdCofirm(java.lang.String,java.lang.String)[pri:10, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:25 EDT" name="afterClickingSubmitwithoutPwdCofirm" data-provider="withoutPassword2" finished-at="2022-06-27T16:19:28 EDT" duration-ms="2153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pk@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClickingSubmitwithoutPwdCofirm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:28 EDT" name="tearDown" finished-at="2022-06-27T16:19:28 EDT" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:28 EDT" name="setup" finished-at="2022-06-27T16:19:29 EDT" duration-ms="1162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pwdsLT8CharErrrMasg(java.lang.String,java.lang.String,java.lang.String)[pri:30, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:29 EDT" name="pwdsLT8CharErrrMasg" data-provider="passwordsLT8characters" finished-at="2022-06-27T16:19:31 EDT" duration-ms="2094" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PK99@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Password should contain atleast 8 characters] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Password should contain atleast 8 characters] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testCases.RegistrationTest.pwdsLT8CharErrrMasg(RegistrationTest.java:264)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pwdsLT8CharErrrMasg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:31 EDT" name="tearDown" finished-at="2022-06-27T16:19:32 EDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:32 EDT" name="setup" finished-at="2022-06-27T16:19:33 EDT" duration-ms="1097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pwdsOnlyNumErrrMasg(java.lang.String,java.lang.String,java.lang.String)[pri:25, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:33 EDT" name="pwdsOnlyNumErrrMasg" data-provider="passwordsInNumberFormat" finished-at="2022-06-27T16:19:35 EDT" duration-ms="1886" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pk@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Your password can’t be entirely numeric.] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Your password can’t be entirely numeric.] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testCases.RegistrationTest.pwdsOnlyNumErrrMasg(RegistrationTest.java:177)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pwdsOnlyNumErrrMasg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:35 EDT" name="tearDown" finished-at="2022-06-27T16:19:35 EDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:35 EDT" name="setup" finished-at="2022-06-27T16:19:36 EDT" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerPageURL()[pri:1, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:36 EDT" name="registerPageURL" finished-at="2022-06-27T16:19:37 EDT" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:37 EDT" name="tearDown" finished-at="2022-06-27T16:19:37 EDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:38 EDT" name="setup" finished-at="2022-06-27T16:19:39 EDT" duration-ms="1303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="userNamewithNACharcters(java.lang.String,java.lang.String,java.lang.String)[pri:15, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:39 EDT" name="userNamewithNACharcters" data-provider="userNAmeNACharacters" finished-at="2022-06-27T16:19:41 EDT" duration-ms="1859" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PK##@mail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcd12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please enter a valid username] but found [password_mismatch:The two password fields didn’t match.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please enter a valid username] but found [password_mismatch:The two password fields didn’t match.]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at testCases.RegistrationTest.userNamewithNACharcters(RegistrationTest.java:206)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNamewithNACharcters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:41 EDT" name="tearDown" finished-at="2022-06-27T16:19:41 EDT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:41 EDT" name="setup" finished-at="2022-06-27T16:19:42 EDT" duration-ms="1303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="usernameHovermsg()[pri:3, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:42 EDT" name="usernameHovermsg" finished-at="2022-06-27T16:19:44 EDT" duration-ms="1972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameHovermsg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegistrationTest@6e8a9c30]" started-at="2022-06-27T16:19:44 EDT" name="tearDown" finished-at="2022-06-27T16:19:45 EDT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RegistrationTest -->
+      <class name="testCases.GetStartedTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:testCases.GetStartedTest@14dc3f89]" started-at="2022-06-27T16:15:16 EDT" name="loadConfig" finished-at="2022-06-27T16:15:17 EDT" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GetStartedTest@14dc3f89]" started-at="2022-06-27T16:15:17 EDT" name="setup" finished-at="2022-06-27T16:15:19 EDT" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getSarted()[pri:0, instance:testCases.GetStartedTest@14dc3f89]" started-at="2022-06-27T16:15:19 EDT" name="getSarted" finished-at="2022-06-27T16:15:20 EDT" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSarted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.GetStartedTest@14dc3f89]" started-at="2022-06-27T16:15:20 EDT" name="tearDown" finished-at="2022-06-27T16:15:20 EDT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.GetStartedTest@14dc3f89]" started-at="2022-06-27T16:19:45 EDT" name="afterSuite" finished-at="2022-06-27T16:19:45 EDT" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.GetStartedTest -->
+      <class name="testCases.DataStructTest">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:testCases.DataStructTest@31e04b13]" started-at="2022-06-27T16:17:53 EDT" name="browsersetup" finished-at="2022-06-27T16:17:58 EDT" duration-ms="4741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="clciktimecomplex()[pri:0, instance:testCases.DataStructTest@31e04b13]" started-at="2022-06-27T16:17:58 EDT" name="clciktimecomplex" finished-at="2022-06-27T16:17:59 EDT" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clciktimecomplex -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DataStructTest@31e04b13]" started-at="2022-06-27T16:17:59 EDT" name="tearDown" finished-at="2022-06-27T16:17:59 EDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.DataStructTest -->
+      <class name="testCases.ArrayTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:42 EDT" name="setup" finished-at="2022-06-27T16:17:42 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:42 EDT" name="browsersetup" finished-at="2022-06-27T16:17:46 EDT" duration-ms="4099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="ArrayPage()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:46 EDT" name="ArrayPage" finished-at="2022-06-27T16:17:46 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrayPage -->
+        <test-method is-config="true" signature="backnav()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:46 EDT" name="backnav" finished-at="2022-06-27T16:17:46 EDT" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backnav -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:46 EDT" name="browsersetup" finished-at="2022-06-27T16:17:50 EDT" duration-ms="3864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="arraypython()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:50 EDT" name="arraypython" finished-at="2022-06-27T16:17:53 EDT" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arraypython -->
+        <test-method is-config="true" signature="backnav()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:53 EDT" name="backnav" finished-at="2022-06-27T16:17:53 EDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backnav -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.ArrayTest@7f92b990]" started-at="2022-06-27T16:17:53 EDT" name="tearDown" finished-at="2022-06-27T16:17:53 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.ArrayTest -->
+      <class name="testCases.GraphTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:20 EDT" name="setup" finished-at="2022-06-27T16:17:22 EDT" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GraphRepreOngraphPageURL()[pri:15, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:22 EDT" name="GraphRepreOngraphPageURL" finished-at="2022-06-27T16:17:25 EDT" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphRepreOngraphPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:25 EDT" name="tearDown" finished-at="2022-06-27T16:17:25 EDT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:25 EDT" name="setup" finished-at="2022-06-27T16:17:26 EDT" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TryHereGraphOngraphPageURL()[pri:10, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:26 EDT" name="TryHereGraphOngraphPageURL" finished-at="2022-06-27T16:17:32 EDT" duration-ms="5342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TryHereGraphOngraphPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:32 EDT" name="tearDown" finished-at="2022-06-27T16:17:32 EDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:32 EDT" name="setup" finished-at="2022-06-27T16:17:33 EDT" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TryHereGraphrepresenationOngraphPageURL()[pri:10, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:33 EDT" name="TryHereGraphrepresenationOngraphPageURL" finished-at="2022-06-27T16:17:38 EDT" duration-ms="4497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TryHereGraphrepresenationOngraphPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:38 EDT" name="tearDown" finished-at="2022-06-27T16:17:38 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:38 EDT" name="setup" finished-at="2022-06-27T16:17:39 EDT" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="graphPageURL()[pri:1, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:39 EDT" name="graphPageURL" finished-at="2022-06-27T16:17:42 EDT" duration-ms="2955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- graphPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.GraphTest@33db72bd]" started-at="2022-06-27T16:17:42 EDT" name="tearDown" finished-at="2022-06-27T16:17:42 EDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.GraphTest -->
+      <class name="testCases.LinkedListTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:15:51 EDT" name="setup" finished-at="2022-06-27T16:15:55 EDT" duration-ms="4098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creatingLlistpage(java.lang.String,java.lang.String)[pri:2, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:15:55 EDT" name="creatingLlistpage" data-provider="PyCode" finished-at="2022-06-27T16:15:58 EDT" duration-ms="2408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "python"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingLlistpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:15:58 EDT" name="tearDown" finished-at="2022-06-27T16:15:58 EDT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:15:58 EDT" name="setup" finished-at="2022-06-27T16:16:02 EDT" duration-ms="4255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creatingLlistpage(java.lang.String,java.lang.String)[pri:2, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:02 EDT" name="creatingLlistpage" data-provider="PyCode" finished-at="2022-06-27T16:16:06 EDT" duration-ms="3715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "hello"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingLlistpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:06 EDT" name="tearDown" finished-at="2022-06-27T16:16:06 EDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:06 EDT" name="setup" finished-at="2022-06-27T16:16:11 EDT" duration-ms="4531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deletionPage()[pri:7, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:11 EDT" name="deletionPage" finished-at="2022-06-27T16:16:17 EDT" duration-ms="6016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletionPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:17 EDT" name="tearDown" finished-at="2022-06-27T16:16:17 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:17 EDT" name="setup" finished-at="2022-06-27T16:16:21 EDT" duration-ms="4662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="implLlistInPyPage()[pri:4, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:21 EDT" name="implLlistInPyPage" finished-at="2022-06-27T16:16:25 EDT" duration-ms="3288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implLlistInPyPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:25 EDT" name="tearDown" finished-at="2022-06-27T16:16:25 EDT" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:25 EDT" name="setup" finished-at="2022-06-27T16:16:30 EDT" duration-ms="4624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="insertionPage()[pri:6, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:30 EDT" name="insertionPage" finished-at="2022-06-27T16:16:35 EDT" duration-ms="5221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertionPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:35 EDT" name="tearDown" finished-at="2022-06-27T16:16:35 EDT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:35 EDT" name="setup" finished-at="2022-06-27T16:16:39 EDT" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="introductionpage()[pri:1, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:39 EDT" name="introductionpage" finished-at="2022-06-27T16:16:42 EDT" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- introductionpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:42 EDT" name="tearDown" finished-at="2022-06-27T16:16:42 EDT" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:42 EDT" name="setup" finished-at="2022-06-27T16:16:46 EDT" duration-ms="3957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pracQuestionsPage()[pri:8, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:46 EDT" name="pracQuestionsPage" finished-at="2022-06-27T16:16:47 EDT" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pracQuestionsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:47 EDT" name="tearDown" finished-at="2022-06-27T16:16:47 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:47 EDT" name="setup" finished-at="2022-06-27T16:16:51 EDT" duration-ms="3940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="traversalPage()[pri:5, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:51 EDT" name="traversalPage" finished-at="2022-06-27T16:16:53 EDT" duration-ms="2335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- traversalPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:53 EDT" name="tearDown" finished-at="2022-06-27T16:16:53 EDT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:53 EDT" name="setup" finished-at="2022-06-27T16:16:59 EDT" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="typesOfLlistPage()[pri:3, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:16:59 EDT" name="typesOfLlistPage" finished-at="2022-06-27T16:17:02 EDT" duration-ms="2584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesOfLlistPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LinkedListTest@64355120]" started-at="2022-06-27T16:17:02 EDT" name="tearDown" finished-at="2022-06-27T16:17:02 EDT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LinkedListTest -->
+      <class name="testCases.StackPageTest">
+        <test-method is-config="true" signature="BrowseSetup()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:17:59 EDT" name="BrowseSetup" finished-at="2022-06-27T16:18:02 EDT" duration-ms="3798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseSetup -->
+        <test-method signature="ApplicationsInStackPage()[pri:4, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:02 EDT" name="ApplicationsInStackPage" finished-at="2022-06-27T16:18:05 EDT" duration-ms="2778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationsInStackPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:05 EDT" name="tearDown" finished-at="2022-06-27T16:18:05 EDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="BrowseSetup()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:05 EDT" name="BrowseSetup" finished-at="2022-06-27T16:18:10 EDT" duration-ms="4675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseSetup -->
+        <test-method signature="implementationInStackPage()[pri:3, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:10 EDT" name="implementationInStackPage" finished-at="2022-06-27T16:18:12 EDT" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implementationInStackPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:12 EDT" name="tearDown" finished-at="2022-06-27T16:18:12 EDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="BrowseSetup()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:12 EDT" name="BrowseSetup" finished-at="2022-06-27T16:18:16 EDT" duration-ms="3810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseSetup -->
+        <test-method signature="operationInStackPage(java.lang.String,java.lang.String)[pri:2, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:16 EDT" name="operationInStackPage" data-provider="PyCode" finished-at="2022-06-27T16:18:20 EDT" duration-ms="3522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "python"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationInStackPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:20 EDT" name="tearDown" finished-at="2022-06-27T16:18:20 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="BrowseSetup()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:20 EDT" name="BrowseSetup" finished-at="2022-06-27T16:18:24 EDT" duration-ms="3847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseSetup -->
+        <test-method signature="operationInStackPage(java.lang.String,java.lang.String)[pri:2, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:24 EDT" name="operationInStackPage" data-provider="PyCode" finished-at="2022-06-27T16:18:28 EDT" duration-ms="3789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[print "hello"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationInStackPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:28 EDT" name="tearDown" finished-at="2022-06-27T16:18:28 EDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="BrowseSetup()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:28 EDT" name="BrowseSetup" finished-at="2022-06-27T16:18:32 EDT" duration-ms="3979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseSetup -->
+        <test-method signature="stackPageURL()[pri:1, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:32 EDT" name="stackPageURL" finished-at="2022-06-27T16:18:32 EDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stackPageURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StackPageTest@6c1832aa]" started-at="2022-06-27T16:18:32 EDT" name="tearDown" finished-at="2022-06-27T16:18:32 EDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.StackPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
